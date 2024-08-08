@@ -1,0 +1,281 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-text {
+  display: inline-block;
+}
+.about-text01 {
+  display: inline-block;
+  font-size: 20px;
+  text-decoration: none;
+}
+.about-text02 {
+  display: inline-block;
+  font-size: 20px;
+}
+.about-text03 {
+  display: inline-block;
+  font-size: 20px;
+}
+.about-text04 {
+  display: inline-block;
+}
+.about-text05 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text06 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text07 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text08 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text09 {
+  display: inline-block;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.about-text10 {
+  font-size: 24px;
+}
+.about-text12 {
+  display: inline-block;
+}
+.about-text13 {
+  display: inline-block;
+}
+.about-text14 {
+  display: inline-block;
+}
+.about-text15 {
+  display: inline-block;
+}
+.about-text16 {
+  display: inline-block;
+}
+.about-text17 {
+  display: inline-block;
+}
+.about-text18 {
+  display: inline-block;
+}
+.about-text19 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text20 {
+  display: inline-block;
+}
+.about-text21 {
+  display: inline-block;
+}
+.about-text22 {
+  display: inline-block;
+}
+.about-text23 {
+  display: inline-block;
+}
+.about-text24 {
+  display: inline-block;
+}
+.about-text25 {
+  display: inline-block;
+}
+.about-text26 {
+  display: inline-block;
+}
+.about-text27 {
+  display: inline-block;
+  text-align: left;
+}
+.about-text28 {
+  display: inline-block;
+}
+.about-text29 {
+  display: inline-block;
+}
+.about-text30 {
+  display: inline-block;
+}
+.about-text31 {
+  display: inline-block;
+  text-align: left;
+}
+.about-text32 {
+  display: inline-block;
+}
+.about-text33 {
+  display: inline-block;
+}
+.about-text34 {
+  display: inline-block;
+}
+.about-text35 {
+  display: inline-block;
+  text-align: left;
+}
+.about-text36 {
+  display: inline-block;
+}
+.about-text37 {
+  display: inline-block;
+}
+.about-text38 {
+  display: inline-block;
+}
+.about-text39 {
+  display: inline-block;
+  text-align: left;
+}
+.about-text40 {
+  display: inline-block;
+}
+.about-text41 {
+  display: inline-block;
+}
+.about-text42 {
+  display: inline-block;
+}
+.about-text43 {
+  display: inline-block;
+  text-align: left;
+}
+.about-text44 {
+  display: inline-block;
+}
+.about-text45 {
+  display: inline-block;
+}
+.about-text46 {
+  display: inline-block;
+}
+.about-text47 {
+  display: inline-block;
+}
+.about-text48 {
+  display: inline-block;
+}
+.about-text49 {
+  display: inline-block;
+}
+.about-text50 {
+  display: inline-block;
+}
+.about-text51 {
+  display: inline-block;
+}
+.about-text52 {
+  display: inline-block;
+}
+.about-text53 {
+  display: inline-block;
+}
+.about-text54 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text55 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text56 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text57 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text58 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text59 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text60 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text61 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text62 {
+  display: inline-block;
+}
+.about-text63 {
+  display: inline-block;
+}
+.about-text64 {
+  display: inline-block;
+}
+.about-text65 {
+  display: inline-block;
+}
+.about-text66 {
+  display: inline-block;
+}
+.about-text67 {
+  display: inline-block;
+}
+@media(max-width: 767px) {
+  .about-text27 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .about-text31 {
+    text-align: left;
+  }
+  .about-text35 {
+    text-align: left;
+  }
+  .about-text39 {
+    text-align: left;
+  }
+  .about-text43 {
+    text-align: left;
+  }
+  .about-text49 {
+    text-align: center;
+  }
+  .about-text50 {
+    text-align: center;
+  }
+  .about-text51 {
+    text-align: center;
+  }
+  .about-text52 {
+    text-align: center;
+  }
+  .about-text53 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .about-text49 {
+    align-self: center;
+    text-align: center;
+  }
+}
